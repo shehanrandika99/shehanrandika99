@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shehan Randika</h1>
-<h3 align="center">Software Engineer | AI and Machine Learning Engineer | Undergraduate from the University of Plymouth | Fullstack Developer</h3>
+<h3 align="center"> Undergraduate from the University of Plymouth | Fullstack Developer | Software Engineer | AI and Machine Learning Engineer |</h3>
 
 - 🌱 I’m currently learning **React Native**
 
