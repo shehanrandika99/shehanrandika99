@@ -56,7 +56,7 @@
 
 ---
 
-### ✨ **Fun GIF**
+### ✨ **Thank you for visiting my profile! Don't forget to follow me!**
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Fun GIF">
 </p>
