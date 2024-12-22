@@ -31,12 +31,6 @@
   <img src="https://skillicons.dev/icons?i=java,python,flutter,react,nodejs,angular,html,css,javascript,mongodb,git,figma&theme=light" alt="Skills" />
 </p>
 
----
-
-### 🌟 **Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehanrandika99&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
 
 ---
 
@@ -58,10 +52,7 @@
 
 ---
 
-### 🐍 **Snake Eating Contributions**
-<p align="center">
-  <img src="https://github.com/shehanrandika99/shehanrandika99/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+
 
 ---
 
