@@ -1,169 +1,63 @@
-<!-- ⚡ Animated Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:F75C7E,100:4A00E0&height=200&section=header&text=Shehan%20Randika&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%"/>
-</div>
-
-<!-- 👋 Typing Animation -->
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Shehan
+  Hi there 👋, I'm Shehan Randika
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=F75C7E&center=true&vCenter=true&width=500&lines=Undergraduate+from+University+of+Plymouth;Fullstack+Developer;AI+and+Machine+Learning+Engineer;Software+Engineer;Open+Source+Contributor" alt="Typing SVG">
 </h1>
 
 <p align="center">
-  <a href="https://github.com/shehanrandika99">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=Undergraduate+%40+University+of+Plymouth;Fullstack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;MERN+%7C+MEAN+%7C+Flutter+Developer;Open+Source+Contributor+%E2%9C%A8;Always+learning%2C+always+building!" alt="Typing SVG" />
-  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my profile! Let's build amazing things together.
 </p>
 
-<!-- 👀 Profile Views & Followers -->
+---
+
+### 🌟 **About Me**
+- 🌱 I’m currently learning **React Native, MERN Stack, MEAN Stack**
+- 💬 Ask me about **Python, Flutter**
+- 📫 How to reach me: **agsrandika@gmail.com**
+- 🕸️ personl web - https://shehanrandika.onrender.com
+
+---
+
+### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shehanrandika99&style=for-the-badge&color=F75C7E&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <a href="https://github.com/shehanrandika99?tab=followers">
-    <img src="https://img.shields.io/github/followers/shehanrandika99?style=for-the-badge&logo=github&color=8E2DE2&labelColor=1a1b27" alt="Followers"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shehanrandika99&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shehanrandika99&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehanrandika99&theme=radical&layout=compact" alt="Top Languages" />
 </p>
 
-<br/>
+---
 
-<!-- 🧑‍💻 About Me with Coding GIF -->
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="Coding GIF"/>
-
-## 🚀 About Me
-
-```javascript
-const shehan = {
-    location: "Sri Lanka 🇱🇰",
-    education: "BSc (Hons) @ University of Plymouth",
-    currentlyLearning: ["React Native", "MERN Stack", "MEAN Stack"],
-    askMeAbout: ["Python", "Flutter", "Web Dev", "AI/ML"],
-    currentFocus: "Building AI-powered applications",
-    funFact: "I debug with console.log() and I'm proud 😎",
-    reachMe: "agsrandika@gmail.com"
-};
-```
-
-- 🌱 Currently mastering **React Native, MERN & MEAN Stack**
-- 🤖 Passionate about **AI & Machine Learning**
-- 💬 Ask me about **Python, Flutter, Fullstack Development**
-- 🌐 Portfolio → **[shehanrandika.onrender.com](https://shehanrandika.onrender.com)**
-- 📫 Reach me → **agsrandika@gmail.com**
-- ⚡ Motto: *"Code. Learn. Build. Repeat."*
-
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- 🛠️ Tech Stack -->
-<h2 align="center">🛠️ Tech Arsenal</h2>
-
-<div align="center">
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,dart,html,css&perline=7" alt="Languages"/>
-
-### 🚀 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,flutter,tailwind,bootstrap&perline=7" alt="Frameworks"/>
-
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel&perline=6" alt="Databases"/>
-
-### 🧰 Tools & Design
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,tensorflow&perline=7" alt="Tools"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- 📊 GitHub Stats -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
+### 🚀 **Languages & Tools**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehanrandika99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=F75C7E&icon_color=8E2DE2&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehanrandika99&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=F75C7E&layout=compact&langs_count=8" height="170" alt="Top Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,flutter,react,nodejs,angular,html,css,javascript,mongodb,git,figma&theme=light" alt="Skills" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shehanrandika99&theme=tokyonight&hide_border=true&background=1a1b27&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
-</p>
 
-<!-- 📈 Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehanrandika99&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=F75C7E&line=8E2DE2&point=FFFFFF&area=true" width="95%" alt="Activity Graph"/>
-</p>
+---
 
-<!-- 🏆 Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shehanrandika99&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- 🌐 3D Contribution Graph (generated by GitHub Action) -->
-<h2 align="center">🌐 3D Contribution Calendar</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg"/>
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph"/>
-  </picture>
-</p>
-
-<!-- 🐍 Snake Animation (generated by GitHub Action) -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shehanrandika99/shehanrandika99/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shehanrandika99/shehanrandika99/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/shehanrandika99/shehanrandika99/output/github-snake-dark.svg" width="95%" alt="Snake Animation"/>
-  </picture>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- 💬 Dev Quote -->
-<h2 align="center">💭 Random Dev Quote</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
-
-<!-- 🤝 Connect -->
-<h2 align="center">🤝 Let's Connect</h2>
-
+### 🤝 **Connect With Me**
 <p align="center">
   <a href="https://linkedin.com/in/shehan-randika-693938255" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://kaggle.com/shehanrandika" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
   <a href="https://instagram.com/shehan.randika_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.behance.net/shehanrandika2" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
-  <a href="mailto:agsrandika@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://shehanrandika.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
   </a>
 </p>
 
-<br/>
+---
 
-<!-- ✨ Footer -->
-<div align="center">
 
-### ✨ Thanks for visiting! Don't forget to ⭐ my repos & follow me!
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="Fun GIF"/>
+---
 
-</div>
-
-<!-- 🌊 Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,50:F75C7E,100:8E2DE2&height=140&section=footer" width="100%"/>
+### ✨ **Thank you for visiting my profile! Don't forget to follow me!**
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Fun GIF">
+</p>
