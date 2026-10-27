@@ -58,23 +58,8 @@
 
 ---
 
-### ✨ **Thank you for visiting my profile! Don't forget to follow me!**
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Fun GIF">
-</p>
---me thami mage old git profile eka  meka mata hdala denna re think karala lassanata
-…
-ඔයාගේ profile එක green accents + dark stats cards එක්ක අලුතින් හැදුවා. ✨
 
-Software Engineer / Full-Stack Developer විදිහට පැහැදිලි introduction එකක්.
-ඔයාගේ .NET, React, Angular, PostgreSQL සහ Azure experience එකට ප්‍රමුඛතාව.
-පිළිවෙළට වෙන් කළ tech stack එකක් සහ animated header එකක්.
-Portfolio, LinkedIn සහ Email links මුලින්ම පෙන්වන layout එකක්.
-පරණ stats service එක වෙනුවට එහි maintained successor එක යෙදුවා. 
-👉 
-README.md
 
-මේ file එකේ content එක shehanrandika99/shehanrandika99 public repository එකේ README.md එකට paste කරලා Preview → Commit changes කරන්න. 
 
 
 README.md
